@@ -1,1 +1,1 @@
-Create a script that creates a directory named
+Write a script that lists all files
