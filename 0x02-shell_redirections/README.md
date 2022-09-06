@@ -1,1 +1,1 @@
- script that prints
+Write a script that prints
